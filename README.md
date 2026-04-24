@@ -36,5 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+## String
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
