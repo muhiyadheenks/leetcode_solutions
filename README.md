@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0015-3sum) |
+| [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
