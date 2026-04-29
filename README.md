@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
