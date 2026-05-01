@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [3668-restore-finishing-order](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
 | ------- |
