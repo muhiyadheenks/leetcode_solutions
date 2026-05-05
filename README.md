@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3110-score-of-a-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
