@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
