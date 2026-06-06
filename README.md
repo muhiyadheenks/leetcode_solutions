@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
